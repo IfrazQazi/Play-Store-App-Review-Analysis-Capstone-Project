@@ -49,13 +49,13 @@ Your app's rating will affect its chances of being featured. Apps with Rating 3 
 ![Screenshot 2021-11-28 191538](https://user-images.githubusercontent.com/60994606/143770641-e5a85747-bd85-42dd-a5c0-f6ee2d63c0ac.png)
 
 # Free vs Paid doughnut graph:
-Here we can see that 92.22% apps are free and 7.78% apps are paid on Google Play Store, so we can say that Most of the
-apps are free on Google Play Store.
+Here we can see that 92.22% apps are free and 7.78% apps are paid on Google Play Store, so we can say that Most of the apps are free on Google Play Store.
 
 ![Screenshot 2021-11-28 191643](https://user-images.githubusercontent.com/60994606/143770710-a1c82a94-f76c-4335-83ea-a52ab2e28755.png)
 
 # Last Update vs App line plot:
 we can conclude that before 2011 there were no paid apps, but with the years passing free apps has been added more in comparison to paid apps, by comparing the apps updated or added in the year 2011 and 2018 free apps are increases from 0.01% to 80% and paid apps are goes from 0.27 to 4%. So, we can conclude that most people are after free apps.
+
 
 ![Screenshot 2021-11-28 192612year](https://user-images.githubusercontent.com/60994606/143770893-21e3da6f-2319-4f01-a2f2-63ada64296f5.png)
 
