@@ -46,6 +46,8 @@ Two features of our data set have many null values, the first one is size and th
 We grouped by category and took mean as aggregation operations on rating feature, we calculated rating mean for each category, and then we visualized that using Plotly bar plot. The average rating distribution for every category in the entire play store data set is around 4.2 out of 5. That’s incredible
 
 Your app's rating will affect its chances of being featured. Apps with Rating 3 or lower will not be featured. The app rating is an important aspect of ASO (app store optimization). Negative mobile app reviews combined with a poor rating will hurt your app's rank, but great app reviews and high ratings will help increase your app's rank.
+
+
 ![Screenshot 2021-11-28 191538](https://user-images.githubusercontent.com/60994606/143770641-e5a85747-bd85-42dd-a5c0-f6ee2d63c0ac.png)
 
 # Free vs Paid doughnut graph:
